@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Output files
+output/
+docs/reviews/
+docs/clips/
+
+# Config state files
+config/.last_search.json
+config/.last_searches.json
+config/.favorites.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
