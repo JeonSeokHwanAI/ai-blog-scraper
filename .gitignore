@@ -25,5 +25,6 @@ config/.favorites.json
 .DS_Store
 Thumbs.db
 
-# Claude
-.claude/
+# Claude (commands는 포함)
+.claude/*
+!.claude/commands/
